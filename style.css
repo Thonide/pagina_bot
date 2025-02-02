@@ -1,0 +1,14 @@
+h1 {
+    font-size: 45px;
+    color: rgb(43, 25, 204);
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(255, 255, 255);
+}
+img {
+    width: 300px; /* Cambia el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Hace que la imagen sea un elemento de bloque */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
